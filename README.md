@@ -1,2 +1,2 @@
-# Ptitexo
-Exercice q8
+Bienvenue dans l'exercice final.
+Ci dessous :  RIEN
